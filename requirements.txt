@@ -1,0 +1,5 @@
+uvicorn==0.17.5
+fastapi==0.75.0
+requests==2.27.1
+mysql-connector-python
+starlette-exporter
